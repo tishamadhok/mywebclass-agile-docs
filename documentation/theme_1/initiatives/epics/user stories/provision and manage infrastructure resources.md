@@ -11,3 +11,7 @@ Acceptance Criteria:
 4. Support for automated provisioning and scaling of resources based on demand.
 
 5. Robust security features, including role-based access control, encryption, and audit logs.
+
+
+# List Tasks Related to This User Story
+1. [IAC tooling](https://github.com/ss889/mywebclass-agile-docs/blob/dc5b2ece3857164f237b12b735f490b11b0a7d1d/documentation/theme_1/initiatives/epics/user%20stories/tasks/IAC%20tooling.md)
