@@ -116,4 +116,5 @@ Team:
 
 6. Stakeholders: Stakeholders, such as senior management, may be involved in providing support and feedback on the development and implementation of the project management guidelines, templates, and tools, and in ensuring their adoption and effectiveness.
 
-[Epic](Launch MyWebClass.org)
+# List Epics Related to This Initiative
+1. [Basic Project Documentation](https://github.com/ss889/mywebclass-agile-docs/blob/f4745fc9d8dc5468ed656a7862fae1b410ff1a6e/documentation/theme_1/initiatives/epics/Basic%20Project%20Documentation.md)
