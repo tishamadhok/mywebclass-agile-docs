@@ -1,5 +1,6 @@
 As a member of the support team, I want to be able to easily identify and diagnose issues with our software so that we can quickly resolve customer issues and provide a high level of customer satisfaction.
 
+
 Acceptance Criteria:
 1. The software should have comprehensive logging that captures all relevant information about system behavior, errors, and exceptions.
 
