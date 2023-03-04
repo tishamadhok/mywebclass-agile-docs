@@ -11,3 +11,7 @@ Acceptance Criteria:
 4. The ability to define and manage test data and test environments.
 
 5. The ability to maintain and update automated test suites as the software evolves.
+
+
+# List Tasks Related to This Theme
+1. [Setup automated testing framework for software development](https://github.com/ss889/mywebclass-agile-docs/blob/48fcccb03303c1617cc967ac9da9322541e801b7/documentation/theme_1/initiatives/epics/user%20stories/tasks/Setup%20automated%20testing%20framework.md)
