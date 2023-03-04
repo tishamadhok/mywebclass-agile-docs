@@ -158,3 +158,6 @@ Team:
 5. Quality Assurance Team: The quality assurance team will work with the software development and operations teams to ensure that software changes are tested thoroughly and reliably, and that defects are detected and resolved as early as possible in the software development lifecycle.
 
 6. Stakeholders: Stakeholders, such as senior management and business owners, will be involved in providing support and feedback on the development and implementation of the DevOps practices and tools, and in ensuring their adoption and effectiveness.
+
+# List Epics Related to This Initiative
+1. [DevOps Implementation](https://github.com/ss889/mywebclass-agile-docs/blob/2f6fd1309bd361ba358467ecfd76ada6e91bf145/documentation/theme_1/initiatives/epics/DevOps%20Implementation.md)
