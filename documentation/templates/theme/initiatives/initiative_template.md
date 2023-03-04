@@ -22,5 +22,5 @@ Dependencies: [List any dependencies that may impact the initiative]
 
 Team: [Identify the team members and their roles in the initiative]
 
-# List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+List epics related to this theme
+Epic 1
