@@ -52,3 +52,6 @@ This epic will deliver significant business value by improving project outcomes,
 It will also enable the organization to be more efficient and effective in managing projects, which will result in cost savings and improved customer satisfaction.
 
 Priority: high priority 
+
+# List User Stories Related to This Epic
+1. [project documentation](https://github.com/ss889/mywebclass-agile-docs/blob/555534e1de8e9f9771d3112d87734641514f1d19/documentation/theme_1/initiatives/epics/user%20stories/project%20documentation.md)
