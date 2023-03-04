@@ -56,4 +56,4 @@ Team:
 4. SEO Specialist: responsible for implementing on-page SEO requirements
 
 # Epic
-1. [Launch MyWebClass](https://github.com/tishamadhok/mywebclass-agile-docs/blob/095644b9859fc075aee5aa21d09a3a5980015ad0/documentation/theme_1/initiatives/Epic/Launch%20MyWebClass.md)
+1. [Launch MyWebClass](https://github.com/tishamadhok/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Launch%20MyWebClass.md)

@@ -31,5 +31,5 @@ Business Value: The development of a website template that meets legal and techn
 Priority: High
 
 # List Stories Related to This Epic
-1. [Website Template](https://github.com/ahg3/mywebclass-agile-docs/blob/1c74dbc24aee6d15f66a576fc35c2595b4e3f541/documentation/theme_1/initiatives/Epic/User%20Stories/Website_Template.md)
-2. [Implementation on-page SEO strategies](https://github.com/ahg3/mywebclass-agile-docs/blob/1c74dbc24aee6d15f66a576fc35c2595b4e3f541/documentation/theme_1/initiatives/Epic/User%20Stories/Implementation%20on-page%20SEO%20strategies.md)
+1. [Website Template](https://github.com/tishamadhok/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Web%20Template.md)
+2. [Implementation on-page SEO strategies](https://github.com/tishamadhok/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Tasks/on-page%20SEO%20strat.md)

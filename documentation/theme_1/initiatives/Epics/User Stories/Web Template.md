@@ -5,4 +5,3 @@ Acceptance Criteria:
 2. Approval of the design by the project manager and the website developer.
 
 # List Tasks Related to This Theme
-1. [Develop Visual Design for Website Template](https://github.com/ahg3/mywebclass-agile-docs/blob/179060edb2ab1a642887a64024b9393ce3d18607/documentation/theme_1/initiatives/Epic/User%20Stories/Tasks/Develop%20Visual%20Design%20for%20Website%20Template.md)
