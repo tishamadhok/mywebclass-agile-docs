@@ -138,5 +138,5 @@ Team:
 5. Content Developer: responsible for creating documentation and support materials for the website template
 6. Quality Assurance Tester: responsible for testing and refining the website template to ensure it meets user needs
 
-# List Epics Related to This Theme
+# List Epics Related to This Initiative
 1. [Develop a Modern and Customizable Base Website Template for MyWebClass.org](https://github.com/ss889/mywebclass-agile-docs/blob/a47c943c5c014546bd1f061ceddf61e9cf08d0c3/documentation/theme_1/initiatives/epics/MyWebClass.org%20base%20website%20template.md)
